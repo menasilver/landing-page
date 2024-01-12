@@ -1,0 +1,168 @@
+.header, .footer, .top {
+background-color: #1F2937;
+}
+
+.web {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.web2 {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.left {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+button, .bottom {
+    background-color: #3882f6;
+    color: white;
+}
+
+.middle-title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.middle-items {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    padding: 50px;
+    width: 50px;
+    height: 50px;
+    border: 3px solid blue;
+    border-radius: 25px;
+    margin-right: 50px;
+}
+
+.box-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    text-wrap: wrap;
+    width: 140px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.quote-container-main {
+    background-color: #e5e7eb;
+}
+
+.quote-container {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    padding-left: 300px;
+    width: 750px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+    display: flex;
+}
+
+.thor {
+    font-weight: bold;
+    display: flex;
+    justify-content: end;
+}
+
+.header {
+}
+
+.left {
+    padding-left: 350px;
+    padding-top: 20px;
+}
+
+.header-links {
+    display: flex;
+    justify-content: end;
+}
+
+.hitem {
+    padding-right: 50px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.top-left {
+    display: flex;
+    flex-direction: column;
+    padding-left: 350px;
+    padding-top: 100px;
+}
+
+.web {
+    width: 400px;
+}
+
+.web2 {
+    width: 425px;
+}
+
+
+button {
+    border-radius: 5px;
+    width: 100px;
+    padding: 5px;
+}
+
+.bottom {
+    margin: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.call {
+    font-weight: bold;
+    padding-right: 300px;
+}
+.sign {
+    padding-right: 50px;
+}
+
+.button-container {
+    padding-left: 800px;
+}
+
+.bottom-button {
+    border-color: white;
+}
+
+.footer {
+    display: flex;
+    color: white;
+    justify-content: center;
+    padding: 50px;
+}
+
+.top-right {
+    color: white;
+    padding-left: 1000px;
+    padding-bottom: 50px;
+}
